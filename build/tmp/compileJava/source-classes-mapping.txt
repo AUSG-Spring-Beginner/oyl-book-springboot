@@ -2,3 +2,7 @@ com/oyl/book/springboot/Application.java
  com.oyl.book.springboot.Application
 com/oyl/book/springboot/web/HelloController.java
  com.oyl.book.springboot.web.HelloController
+com/oyl/book/springboot/domain/posts/Posts.java
+ com.oyl.book.springboot.domain.posts.Posts
+com/oyl/book/springboot/domain/posts/PostsRepository.java
+ com.oyl.book.springboot.domain.posts.PostsRepository
